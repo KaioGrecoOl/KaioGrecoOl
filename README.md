@@ -5,6 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioGrecoOl&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+- 🎓  I have a degree in Law with some experiences in Mining and environment laws.
+
 - 🌱 I’m currently learning Back-end module of Trybe's course
 
 - 📫 How to reach me **kaiogreco91@gmail.com**
