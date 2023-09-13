@@ -7,7 +7,7 @@
 
 - 🎓  I have a degree in Law with some experiences in Mining and environment laws.
 
-- 🌱 I’m currently learning Back-end module of Trybe's course
+- 🌱 I’m currently studying Cybersecurity and Data Governance graduate course at PUC-MG
 
 - 📫 How to reach me **kaiogreco91@gmail.com**
 
